@@ -1,4 +1,4 @@
-def square_array()
+def square_array(array)
   new_ary = []
   array.each do |square|
     new_ary.push(square)
